@@ -7,23 +7,22 @@
 <builds>
 
  
-
+<builds>
  
-
- 
-
-<build name = "Pecascuco By Nexus">
-
+    <build name = "Pecascuco para smartTV By Nexus">
 <version>1.0</version>
-
-<url>https://download1476.mediafire.com/8zx12e44gtlg8wfAvH4R6f1iTbE4e91svXzKORYILcgdaxwHoTXgtQnM4zdgLDN-dIOw8EawvPq46ehWTP0vcWUr7Z70Rw/a7fgaw4cyrgbzt4/PecascucoWizard.zip</url>
-
+<url>https://download1072.mediafire.com/57z8q0ju49zg4XZ78AHFvSbxOfy1lMww046VtNWYYLNN3a85v5Db9KeBEsD7mykz0uUKYAMMaAcCzgvqoKkGVCGGjxqTKg/xia9h7kk0l86t96/Wizard.funcional.nexus.zip</url>
 <icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
-
 <fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
-
-<description>Wizard Pecascuco Nexus</description>
-
+<description>palantir2,kodidivertido y vavoo</description>
+</build>	
+ 
+<build name = "Pecascuco para PC By Nexus">
+<version>1.0</version>
+<url>https://download1476.mediafire.com/8zx12e44gtlg8wfAvH4R6f1iTbE4e91svXzKORYILcgdaxwHoTXgtQnM4zdgLDN-dIOw8EawvPq46ehWTP0vcWUr7Z70Rw/a7fgaw4cyrgbzt4/PecascucoWizard.zip</url>
+<icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
+<fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
+<description>Wizard Pecascuco Nexus para pc</description>
 </build>
 
  
