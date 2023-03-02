@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+ 
+
+ 
+
+<builds>
+
+ 
+
+ 
+
+ 
+
+<build name = "Pecascuco By Nexus">
+
+<version>1.0</version>
+
+<url>https://download1476.mediafire.com/8zx12e44gtlg8wfAvH4R6f1iTbE4e91svXzKORYILcgdaxwHoTXgtQnM4zdgLDN-dIOw8EawvPq46ehWTP0vcWUr7Z70Rw/a7fgaw4cyrgbzt4/PecascucoWizard.zip</url>
+
+<icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
+
+<fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
+
+<description>Wizard Pecascuco Nexus</description>
+
+</build>
+
+ 
+
+</builds>
