@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <builds>
+    	
 
- 
-
- 
-
- 
-<builds>
- 
-    <build name = "Pecascuco para smartTV By Nexus">
+        <build name = "Pecascuco para smartTV By Nexus">
 <version>1.0</version>
 <url>https://download1072.mediafire.com/57z8q0ju49zg4XZ78AHFvSbxOfy1lMww046VtNWYYLNN3a85v5Db9KeBEsD7mykz0uUKYAMMaAcCzgvqoKkGVCGGjxqTKg/xia9h7kk0l86t96/Wizard.funcional.nexus.zip</url>
 <icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
@@ -23,6 +18,20 @@
 <description>Wizard Pecascuco Nexus para pc</description>
 </build>
 
- 
-
-</builds>
+        <build name = "My Build 1">
+            <version>1.0</version>
+            <url>http://myhost.com/mybuild1.zip</url>
+            <icon>http://mybuild1.com/icon.png</icon>
+            <fanart>http://mybuild1.com/fanart.jpg</fanart>
+            <description>My First build.</description>
+        </build>
+        
+        <build name = "My Build 2">
+            <version>1.0</version>
+            <url>http://myhost.com/mybuild2.zip</url>
+            <icon>http://myhost.com/icon.png</icon>
+            <fanart>http://myhost.com/fanart.jpg</fanart>
+            <description>My second build.</description>
+        </build>
+        
+    </builds>
