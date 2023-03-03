@@ -2,7 +2,7 @@
     <builds>
     	
 
-        <build name = "Pecascuco para smartTV By Nexus">
+        <build name = "Pecascuco Android By Nexus">
 <version>02/03/23</version>
 <url>https://download1483.mediafire.com/yf4wk89qqkmgM-BdeQjcTfaCzQhTiIiJ9UdPBlRBxXycjRbG5ARtdxjaPgxdweqnUbFIFCF6DJ-LYJozr9r2Dkrr_lGUdg/xhbjs5duz67tu08/wizard-02.03.23.zip</url>
 <icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
@@ -10,6 +10,14 @@
 <description>palantir2,kodidivertido y vavoo</description>
 </build>	
  
+        
+        <build name = "Pecascuco PC By Nexus">
+<version>02/03/23</version>
+<url>https://download1652.mediafire.com/1ig2gkxbs6igqis5YBlzAa9lm8jOyAafvFHXzIXQlQhT5oTXipboYK-vG40fzUBeTT0j2JimpU5z3DeWF4bow8OwmNt_kQ/ogr7tbvrfu588lc/build-02.03.23.zip</url>
+<icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
+<fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
+<description>palantir2,kodidivertido y vavoo</description>
+</build>	
 
 
 
