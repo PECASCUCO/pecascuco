@@ -1,0 +1,67 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR lime][B]&gt; [COLOR lime]AGE[COLOR gold]NDA[COLOR yellow] DEPORTIVA[COLOR lime] &lt;[/B][/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.postimg.cc%2fW1LjykC6%2fPicsart-22-10-30-16-51-56-087-removebg-preview.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.KovertidoTeamTvCine/?action=agenda&amp;title=%5BCOLOR+lime%5D%5BB%5D%3E+%5BCOLOR+lime%5DAGE%5BCOLOR+gold%5DNDA%5BCOLOR+yellow%5D+DEPORTIVA%5BCOLOR+lime%5D+%3C%5B%2FB%5D%5B%2FCOLOR%5D&amp;url=&amp;thumbnail=https%3A%2F%2Fi.postimg.cc%2FW1LjykC6%2FPicsart-22-10-30-16-51-56-087-removebg-preview.png&amp;plot=&amp;extra=&amp;page=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>search</defaultID>
+		<label>[B]Buscar[/B]</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>special://skin/extras/icons/DefaultAddonsSearch.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?sZWUllnSol1MSBnYyQTaPlWQullbWpXWyYUeNl2Yzl0QKpmYyUDMadVNwkkavdmSyoFcidkV6pUe3dWStpFai1mR5R2QJZTSDRGRPxGejZFWOx2Yu50YYZkV/8iMylGduFGbhBnLvVGZpZnLul2Z1xGcv8iOul2Z1xGcoUGdhRGc15icl5WahRnbvN0JgwyJzp7wuVWbgEmchBHIhR3cpZHIhR3clBiclNWZsJWY0NXRngyWgojI15WZNRHelRnbvNmIgwyJzVGbpZ2JgojI05WZ052bjJCIsciMyF2YzVnYnAiOi42bpR3YhJye9dyclcCI6ICbxNnIgwCMgojIldWYwJCIscSXS9ETPN0Lb9Gb1RXrDTHIy9GcgIXYjNXdC1FZs92ZgI1TM90QbdCI6ICblJWYsJCIscyZuBnLyF2YzVnYlJ3Lvt2al52LhlGZl12LyVGdzFWbvcXYy9icpRnbhxWYQ9ibvRGZhJXa05WYsFGUv02bj5iY1hGdpd2LvozcwRHdodCI6IibvNWaiACLnYWan5CdyFmbhZGXcJjcpRnbhxWYw5yblRWa25ibpdWdsBHXcNnbvRGZhxFXpR2bLxFXn5WatF2bSxFXhRXYEBHcBxFXvlmchV3cVxFXzJXZzVFXcpzQnAiOiQnch5WYmJCIs0VKnkyZuBnLu92Yp9ybrtWZu9SYpRWZt9iclR3ch12L3FmcvIXa05WYsFGUv42bkRWYylGduFGbhB1Lt92YuIWdoRXan9yL6MHc0RHasADMwATMgwyMyAjMtIDMtgjMg42sDn2YhpXasFWd0NWYgEWbpRHbaOMLz4yMuIjL2BiMgIXa05WYsFGUo42bpRXYjlmZpR3bOdCIsciMgIXa05WYsFGUgUmci92cg42sDn2Yh1mcvZmbJdCKgwSKnkiekdlR5F2V5MGWFZ0djVkUoR2RGNGWGpkdZdVMwJWbkNGWFRndadEbjh1RGtmWHlTdjFDejN2R4FjWywWdM5mWwp1RWZHTuJEaidkR1R2RslXTsh3Ya1mR1lFWKBDTtRGcal2Yzl0QKBXWykTdJp2bnpkMoBDZIJkePlGO2plMsBTYIZVaM1mT2J2U5EVWXhHai5mUwNWbGtmWHlTdMFjQoJ2RGVHZHxWeMNjSoRWe5QXWY5EMahVS2J2VWtWYXVkdi1mVyFmM4Y3YtZVakhlTqlFWJV3YHVjbKl3dnlkbChmWyUVaPlWQ3x0QBl2YyYFMYNjWwpFWjl2TpJUVj5mV",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>movies</defaultID>
+		<label>[B]Películas[/B]</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>special://skin/extras/icons/DefaultMovies.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?3dWSu5EbkZUOyE2VWNTSq92ZWhkSxoFWwUWeKhWWzIFciJDNp9UaB5mYXZVdkN1Yzl0QKpmYyUDMadVNwkkavdmSyoFcidkV6pUe3dWStpFai1mR5R2QJZTSDRGRPxGejZFWOx2Yu50YYZkV6R2V/8iMylGduFGbhBnLvVGZpZnLul2Z1xGcv8iOul2Z1xGcoUGdhRGc15icl5WahRnbvN0JgwyJzp7wuVWbgEmchBHIhR3cpZHIhR3clBiclNWZsJWY0NXRngyWgojI15WZNRHelRnbvNmIgwyJzVGbpZ2JgojI05WZ052bjJCIscSduVWbnAiOi42bpR3YhJyeQfnM2chBCZp9VblRXagknYgIVREJ1TgACMy0DZp9VduVWbgUmclh2dgMXduVWbg02byZGI0JXYuFmZswWczxibvNWas42bpR3YhxCblJWYsBCdjVGblN3JgojIsF3ciACLwAiOiU2ZhBnIgwyJdJ1TM90Qvs1chxWdj16wsVGUdRGbvdGIS9ETPN0WnAiOiwWZiFGbiACLncmbw5ychxWdjlGblB3Lvt2al52LhlGZl12LyVGdzFWbvcXYy9icpRnbhxWYQ9ibvRGZhJXa05WYsFGUv02bj5iY1hGdpd2LvozcwRHdodCI6IibvNWaiACLnYWan5CdyFmbhZGXcJjcpRnbhxWYw5yblRWa25ibpdWdsBHXcNnbvRGZhxFXpR2bLxFXn5WatF2bSxFXhRXYEBHcBxFXvlmchV3cVxFXzJXZzVFXcpzQnAiOiQnch5WYmJCIs0VKnkyZuBnLu92Yp9ybrtWZu9SYpRWZt9iclR3ch12L3FmcvIXa05WYsFGUv42bkRWYylGduFGbhB1Lt92YuIWdoRXan9yL6MHc0RHasADMwATMgwyMyAjMtIDMtgjMg42sDn2YhpXasFWd0NWYgEWbpRHbaOMLz4yMuIjL2BiMgIXa05WYsFGUo42bpRXYjlmZpR3bOdCIsciMgIXa05WYsFGUgUmci92cg42sDn2Yh1mcvZmbJdCKgwSKnkiR5F2V5MGWFZ0djVkUoR2RGNGWGpkdZdVMwJWbkNGWFRndadEbjh1RGtmWHlTdjFDejN2R4FjWywWdM5mWwp1RWZHTuJEaidkR1R2RslXTsh3Ya1mR1lFWKBDTtRGcal2Yzl0QKBXWykTdJp2bnpkMoBDZIJkePlGO2plMsBTYIZVaM1mT2J2U5EVWXhHai5mUwNWbGtmWHlTdMFjQoJ2RGVHZHxWeMNjSoRWe5QXWY5EMahVS2J2VWtWYXVkdi1mVyFmM4Y3YHZ1chdlTxI2RGpHTuJUdal3Yzl0QKdXWXRGbJp2bn10Q",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>[B]Series[/B]</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>special://skin/extras/icons/DefaultTVShows.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?J5mTsRmR5ITYXZ1MJp2bnZFSKFjWYBTZ5pEaZNjUwJmM0k2TpFkbidlV1R2UjNXSDpkaiJTNwo1V1ATSq92ZKJjWwJ2RWpnS5d3ZJ1mWoJWbGlHZDlkNJNEZE9Eb4NmVY5Ebj5mTjhlRWpHZ/8iMylGduFGbhBnLvVGZpZnLul2Z1xGcv8iOul2Z1xGcoUGdhRGc15icl5WahRnbvN0JgwyJzp7wuVWbgEmchBHIhR3cpZHIhR3clBiclNWZsJWY0NXRngyWgojI15WZNRHelRnbvNmIgwyJzVGbpZ2JgojI05WZ052bjJCIscSduVWbnAiOi42bpR3YhJye03JjNXYgQWaf1WZ0lGI5JGISVERS9EIgADN9QWafVnbl1GIlJXZodHIzVnbl1GIt9mcmBCdyFmbhZGLsF3cs42bjlGLu9Wa0NWYswWZiFGbgQ3YlxWZzdCI6ICbxNnIgwCMgojIldWYwJCIscSXS9ETPN0LbNXZpJXZT1FZs92ZgI1TM90QbdCI6ICblJWYsJCIscyZuBnLzVWayV2cv82arVmbvEWakVWbvIXZ0NXYt9ydhJ3LylGduFGbhB1Lu9GZkFmcpRnbhxWYQ9SbvNmLiVHa0l2Zv8iOzBHd0h2JgojIu92YpJCIsciZpdmL0JXYuFmZcxlMylGduFGbhBnLvVGZpZnLul2Z1xGccx1cu9GZkFGXclGZvtEXcdmbp1WYvJFXcFGdhREcwFEXc9WayFWdzVFXcNnclNXVcxlODdCI6ICdyFmbhZmIgwSXpcSKn5Gcu42bjl2Lvt2al52LhlGZl12LyVGdzFWbvcXYy9icpRnbhxWYQ9ibvRGZhJXa05WYsFGUv02bj5iY1hGdpd2LvozcwRHdoxCMwADMxACLzIDMy0iMw0COyAibzOcajFmepxWY1R3YhBSYtlGdsp5wsMjLz4iMuYHIyAicpRnbhxWYQhibvlGdhNWamlGdv50JgwyJyAicpRnbhxWYQBSZyJ2bzBibzOcajFWby9mZul0JoACLpcSKXZUehdVOjhVRGd3YFJFakdkRjhlRKZXWXFDci1GZjhVR0ZnWHx2YYdkRrp1R5U3Yxg3YjdEexolMsVHTupFcadkV2xkbChmYHZUdkdEb51Eb4NmWtZUdZhlSwwUbkBnWpN2cJNkSwllM5UXSq92ZKJDawQGSCp3TphjdaJDbwEGSWlGTt5kdiNVORl1V4hmYuJFcj1mRrp1R5UHTxIEaidkR1R2RslHTzoEaklXO0lFWOBjWYlkdidlVrF2VFZnYtZlchJDO2NmMWlXYXZleM5mQ1pVejNXSDp0dZdFZslkavdWTDd3Z",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>[B]TV en directo[/B]</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>special://skin/extras/icons/DefaultAddonPVRClient.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.vavooto/?action=channels",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>13000</label>
+		<label2 />
+		<icon>special://skin/extras/icons/DefaultAddonService.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>playdisc</defaultID>
+		<label>$SKIN[31958|skin.aeon.nox.silvo|None]</label>
+		<label2 />
+		<icon>special://skin/extras/icons/Disc.png</icon>
+		<thumb />
+		<action>PlayDisc</action>
+		<visible>System.HasMediaDVD</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>33060</label>
+		<label2 />
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>ActivateWindow(shutdownmenu)</action>
+		</shortcut>
+	</shortcuts>
