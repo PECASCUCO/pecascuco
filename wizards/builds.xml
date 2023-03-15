@@ -2,22 +2,15 @@
     <builds>
     	
 
-        <build name = "Pecascuco Android By Nexus">
-<version>02/03/23</version>
-<url>https://download1507.mediafire.com/uw4r6ce6p9egxccwein9pwVhRwWI3K2v3as489q1nsKaseIF274F3B9gfPbGmFTzjiYjy0sx5j5QR3otuSzkOm_c5NyMMA/zgwmwvc017z83kf/copia.completa.030323.zip</url>
+        <build name = "Pecascuco By Nexus">
+<version>14/03/23</version>
+<url>https://download1493.mediafire.com/ufyc2jdn8vzg70Lo0_I3XBF6yNkMiwDqTUwzOzkgkHjGuBU0H9nimS0j9h81ywCkgJHZM1DpQx0RuAfDXSyIDRXo9h6l2g/15pu0irvk6la3kl/BUILD_FULL_140323.zip</url>
 <icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
 <fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
-<description>palantir2,kodidivertido y vavoo</description>
+<description>Tv con vavoo, peliculas y series con palantir2, alfa y cristal azul</description>
 </build>	
  
         
-        <build name = "Pecascuco Canales DEPORTES By Nexus">
-<version>12/03/23</version>
-<url>https://download1072.mediafire.com/74ni1qb484eg13HMYny8ej8cJ0DaAuUPWOX7cjUhP4TYxAjL7jeUfth9zCyfG95eUV1M8EahpQ3XGmsNIwepsW7zHk4f_g/xia9h7kk0l86t96/Wizard.funcional.nexus.zip</url>
-<icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
-<fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
-<description>CANALES DE DEPORTE</description>
-</build>	
 
 
      </builds>
