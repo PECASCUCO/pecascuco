@@ -10,7 +10,13 @@
 <description>Tv con vavoo, peliculas y series con palantir2, alfa y cristal azul</description>
 </build>	
         
-   
+   <build name = "Pecascuco para Nexus">
+<version>21/03/23</version>
+<url>https://download1521.mediafire.com/b73q4tlrhy4gSLJgcSKB9culcuuZL7YZ6MUF8Cle1SRRbndtRIoSlutjeX3uH1i2H2M17VkL8_JoDmq28pOuyC1qyi5_iQ/k7vygi5kxeqpo4w/build.210323.zip</url>
+<icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
+<fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
+<description>Tv con vavoo, peliculas y series con palantir2, alfa y cristal azul</description>
+</build>	 
  
         
 
