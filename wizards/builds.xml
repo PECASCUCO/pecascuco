@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <builds>
     	
-
-        <build name = "Pecascuco By Nexus">
-<version>21/03/23</version>
-<url>https://download1335.mediafire.com/4lw5v7t1lddgtB0I4U1tt2TPnc2xMx8-lXUxcQsX8pPSrOSOOwBIkAamW74b0YWd6bjpYt6qhHmDYeWWs1M0n1SfTLM19Q/09vahpyo4sv7opp/Backup_KLB.zip</url>
-<icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
-<fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
-<description>Tv con vavoo, peliculas y series con palantir2, alfa y cristal azul</description>
-</build>	
+	
         
    <build name = "Pecascuco uptobox">
 <version>21/03/23</version>
