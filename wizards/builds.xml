@@ -5,7 +5,7 @@
         
    <build name = "Pecascuco ">
 <version>30/04/23</version>
-<url>https://github.com/PECASCUCO/builds/archive/refs/heads/main.zip</url>
+<url>https://github.com/PECASCUCO/builds/releases/download/build_kodi/Build_300423.zip</url>
 <icon>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</icon>
 <fanart>https://kodi.tv/images/blog/kodi-20-nexus-splash.jpg</fanart>
 <description>Tv con vavoo, peliculas y series con palantir2, alfa y cristal azul</description>
